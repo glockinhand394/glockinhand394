@@ -12,7 +12,7 @@
 ## 🌐 Connect with Me 🌐
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/NamelessCT1)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@glockinhand394)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@insomniaservices)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=glockinhand394&show_icons=true&theme=transparent&hide_border=true&title_color=00ADD8&icon_color=00ADD8&text_color=888)](https://github.com/glockinhand394)
 
